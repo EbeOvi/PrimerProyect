@@ -1,0 +1,26 @@
+body { background-color: rgb(250, 242, 210);}
+
+#hero { text-align:left;
+        color: rgb(27, 3, 3)}
+h1      {text-align: left;
+        color: rgb(1, 1, 17);    background-color:#76b5df; border:2px solid rgb(25, 6, 112);  
+    
+                    font-family: 'Open Sans', sans-serif; }
+        
+h2  { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+    text-decoration: underline solid rgb(68, 68, 68 )}
+
+img {box-shadow: 2px 2px 7px 1px #352f2d;}
+  
+    
+          
+
+        legend { text-align: left; color:darkblue; font-size: 18px; }
+#ul {text-align: right; 
+     text-decoration-style: solid;}
+p.a     { color:rgb(189, 178, 178) ; font-family: 'Itim'; font-size: 16px; }
+p.b     { color:rgb(169, 169, 169) ; font-family: 'Itim';font-size: 16px; }
+
+
+#contact {text-decoration: over ; font-size: 20px; font-style: unset;  }
+
